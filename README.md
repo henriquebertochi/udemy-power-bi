@@ -14,6 +14,6 @@
 
 ###
 
-<p align="left">- 🌐 https://app.powerbi.com/view?r=eyJrIjoiYTRiNWIwZDYtY2IyYi00NGI5LWFlNGItNmU2NWEyMTJlYjczIiwidCI6IjA1MmFmMGNlLWI0YWMtNDQ5MC04YWZjLTQ0MTBhNDA5NDQyZSJ9&embedImagePlaceholder=true</p>
+<p align="left">- 🌐 <a target="_blank"> https://app.powerbi.com/view?r=eyJrIjoiYTRiNWIwZDYtY2IyYi00NGI5LWFlNGItNmU2NWEyMTJlYjczIiwidCI6IjA1MmFmMGNlLWI0YWMtNDQ5MC04YWZjLTQ0MTBhNDA5NDQyZSJ9&embedImagePlaceholder=true </a> </p>
 
 ###
